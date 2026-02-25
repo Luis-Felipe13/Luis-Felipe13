@@ -1,12 +1,10 @@
-## Olá! Tudo bem? Meu nome é Luis Felipe
+## Olá, prazer!! O Meu nome é Luis Felipe 👋
 
 # Quem sou eu:
 Atualmente, estou cursando Engenharia de Computação pela UNITAU, estou no 3º ano, sendo 5 necessários para concluir o curso.
 Sou apaixonado por programação, especialmente voltada para web, com Java, e Javascript. E também para a área de Análise de Dados, utilizando Python.
 
 Estou sempre a procura de oportunidades de colocar meu conhecimento em prática. Utilizar alguns conhecimentos em programação para criar ferramentas que facilitem nossas vidas.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Felipe13)](https://github.com/anuraghazra/github-readme-stats)
 
 # Linguagens de Programação:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
@@ -15,7 +13,7 @@ Estou sempre a procura de oportunidades de colocar meu conhecimento em prática.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
-# Linguagens Gerais:
+# Linguagens de Marcação:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 
