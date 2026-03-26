@@ -2,7 +2,7 @@
 
 # Quem sou eu:
 Atualmente, estou cursando Engenharia de Computação pela UNITAU, estou no 3º ano, sendo 5 necessários para concluir o curso.
-Sou apaixonado por programação, especialmente voltada para web, com Java, e Javascript. E também para a área de Análise de Dados, utilizando Python. Uma outra paixão minha, é a programação competitiva. Na 30º
+Sou apaixonado por programação, especialmente voltada para web, com Java, e Javascript. E também para a área de Análise de Dados, utilizando Python. Uma outra paixão minha, é a programação competitiva. Na 30º edição, junto com outros 2 colegas de equipe, fomos finalistas da competição, disputando com equipes de alto nível, de universidades como UFRJ, UFMG, UFPA e outras.
 Estou sempre a procura de oportunidades de colocar meu conhecimento em prática. Utilizar alguns conhecimentos em programação para criar ferramentas que facilitem nossas vidas. 
 
 # Linguagens de Programação:
